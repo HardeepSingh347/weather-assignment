@@ -1,0 +1,10 @@
+mat-panel-title h4 {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    font-size: 18px;
+}
+mat-expansion-panel-header{
+  background-color: rgba(0,0,0,.03);
+  border-top: 1px solid rgba(0,0,0,.125);
+}
